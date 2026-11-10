@@ -37,12 +37,12 @@ Clone or copy this repository into your Antigravity plugins directory:
 
 ```powershell
 # Windows
-git clone https://github.com/hkshingavi/us-market-day-trader-skill-antigravity.git "$env:USERPROFILE\.gemini\config\plugins\us-market-day-trader-skill"
+git clone https://github.com/hkshingavi/us-market-day-trader-skill-for-antigravity.git "$env:USERPROFILE\.gemini\config\plugins\us-market-day-trader-skill"
 ```
 
 ```bash
 # macOS / Linux
-git clone https://github.com/hkshingavi/us-market-day-trader-skill-antigravity.git ~/.gemini/config/plugins/us-market-day-trader-skill
+git clone https://github.com/hkshingavi/us-market-day-trader-skill-for-antigravity.git ~/.gemini/config/plugins/us-market-day-trader-skill
 ```
 
 Once installed, the plugin will load automatically into Antigravity on your next turn.
