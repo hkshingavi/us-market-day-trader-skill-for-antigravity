@@ -1,0 +1,17 @@
+{
+  "name": "us-market-day-trader-skill",
+  "displayName": "US Market Day Trader Skill for Antigravity",
+  "version": "2.0.0",
+  "description": "11 modular skills for US day trading on Google Antigravity: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+  "author": {
+    "name": "Harshad Shingavi",
+    "url": "https://github.com/hkshingavi"
+  },
+  "homepage": "https://github.com/hkshingavi/us-market-day-trader-skill-antigravity",
+  "repository": "https://github.com/hkshingavi/us-market-day-trader-skill-antigravity",
+  "suggestedPrompts": [
+    "Scan the market for opening-range breakouts at 10:15 AM",
+    "What are the latest TSLA headlines and is anything moving it?",
+    "Run the Time Machine on my TSLA setup before I risk a dollar"
+  ]
+}

@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.DS_Store
+Thumbs.db
+trader/state/
+trader/prices.json
+trader/orders.json
+trader/plan.json
+trader/watchlist.json
+trader/universe.txt
+trader/portfolio.json
+trader/alerts.json
